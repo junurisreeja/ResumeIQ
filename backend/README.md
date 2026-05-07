@@ -142,11 +142,3 @@ All responses: `{ "success": bool, "message": "...", "data": { ... } }`
 - "Auth required" routes work without auth too (demo mode fallback).
 
 ---
-
-## 👩‍💻 Author
-
-**Vaishnavi Pogaku** · CS Student · Warangal, Telangana 🇮🇳
-
-Building: ResumeIQ · City Ease Home Services
-
-Open to Python Developer and Full Stack internships.
